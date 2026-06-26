@@ -13,6 +13,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -21,22 +22,27 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
