@@ -7,6 +7,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +77,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/iZiaur/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iZiaur/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -99,6 +102,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -110,4 +114,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
