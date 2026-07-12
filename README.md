@@ -17,6 +17,7 @@ A collection of LeetCode Problems Solved
 | [0930-binary-subarrays-with-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2899-last-visited-integers](https://github.com/iZiaur/LeetCode-Problems/tree/master/2899-last-visited-integers) |
@@ -105,6 +107,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
