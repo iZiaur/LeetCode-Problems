@@ -26,6 +26,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iZiaur/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -198,4 +199,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iZiaur/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
