@@ -38,6 +38,7 @@ A collection of LeetCode Problems Solved
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode Problems Solved
 | [0146-lru-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0460-lfu-cache) |
+| [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -159,6 +161,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Quickselect
 |  |
