@@ -37,6 +37,7 @@ A collection of LeetCode Problems Solved
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode Problems Solved
 | [0146-lru-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -87,6 +89,7 @@ A collection of LeetCode Problems Solved
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 ## Matrix
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Quickselect
