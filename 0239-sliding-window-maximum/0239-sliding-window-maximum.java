@@ -1,37 +1,37 @@
 class Solution {
+    static class Maxi implements Comparable <Maxi>{
+        int el;
+        int idx;
+
+        public Maxi(int el,int idx){
+            this.el=el;
+            this.idx=idx;
+
+        }
+
+        public int compareTo(Maxi m1){
+            return m1.el-this.el;
+        }
+    }
     public int[] maxSlidingWindow(int[] nums, int k) {
-       Deque <Integer> dq=new ArrayDeque<>();
-       ArrayList<Integer> res=new ArrayList<>();
-       for(int i=0;i<k;i++){
-        while(dq.size()>0 && nums[dq.getLast()]<=nums[i]){
-            dq.removeLast();
+        PriorityQueue<Maxi> pq=new PriorityQueue<>();
+        for(int i=0;i<k;i++){
+            pq.add(new Maxi(nums[i],i));
         }
-        dq.addLast(i);
-       }
 
-       for(int i=k;i<nums.length;i++){
-        res.add(nums[dq.getFirst()]);
+        int arr[]=new int[nums.length-k+1];
+        Maxi m1=pq.peek();
+        arr[0]=m1.el;
 
-        while(dq.size()>0 && dq.getFirst()<i-k+1){
-            dq.removeFirst();
+        for(int i=k;i<nums.length;i++){
+            
+            while(!pq.isEmpty() && pq.peek().idx<=i-k){
+                pq.poll();
+            }
+            pq.add(new Maxi(nums[i],i));
+            arr[i-k+1]=pq.peek().el;
         }
-        while(dq.size()>0 && nums[dq.getLast()]<=nums[i]){
-            dq.removeLast();
-        }
-         dq.addLast(i);
-       }
-       res.add(nums[dq.getFirst()]);
 
-       for(int i=0;i<res.size();i++){
-        System.out.print(res.get(i)+" ");
-       }
-
-        int ans[]=new int[res.size()];
-        for(int i=0;i<res.size();i++){
-            ans[i]=res.get(i);
-        }
-        return ans;
-
-         
-         }
-       }
+        return arr;
+    }
+}
