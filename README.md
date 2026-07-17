@@ -49,6 +49,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -180,6 +181,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode Problems Solved
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode Problems Solved
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
