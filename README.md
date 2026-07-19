@@ -9,6 +9,7 @@ A collection of LeetCode Problems Solved
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode Problems Solved
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -182,6 +184,7 @@ A collection of LeetCode Problems Solved
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 ## Matrix
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode Problems Solved
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/iZiaur/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
