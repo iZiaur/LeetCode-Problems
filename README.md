@@ -54,6 +54,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/iZiaur/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -177,6 +178,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [2899-last-visited-integers](https://github.com/iZiaur/LeetCode-Problems/tree/master/2899-last-visited-integers) |
 ## Greedy
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
 |  |
