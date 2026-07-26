@@ -28,6 +28,7 @@ A collection of LeetCode Problems Solved
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode Problems Solved
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
@@ -250,6 +252,7 @@ A collection of LeetCode Problems Solved
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
