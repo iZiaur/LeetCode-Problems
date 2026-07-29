@@ -10,6 +10,7 @@ A collection of LeetCode Problems Solved
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode Problems Solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode Problems Solved
 | [0225-implement-stack-using-queues](https://github.com/iZiaur/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iZiaur/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/iZiaur/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -204,6 +207,7 @@ A collection of LeetCode Problems Solved
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/iZiaur/LeetCode-Problems/tree/master/0860-lemonade-change) |
 ## Matrix
