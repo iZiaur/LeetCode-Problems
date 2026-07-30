@@ -48,6 +48,7 @@ A collection of LeetCode Problems Solved
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iZiaur/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode Problems Solved
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
