@@ -99,6 +99,7 @@ A collection of LeetCode Problems Solved
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -144,6 +146,7 @@ A collection of LeetCode Problems Solved
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -225,6 +228,7 @@ A collection of LeetCode Problems Solved
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/iZiaur/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode Problems Solved
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
