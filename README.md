@@ -167,6 +167,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/iZiaur/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iZiaur/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -308,6 +309,7 @@ A collection of LeetCode Problems Solved
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode Problems Solved
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -333,4 +336,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
