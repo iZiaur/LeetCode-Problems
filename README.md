@@ -10,6 +10,7 @@ A collection of LeetCode Problems Solved
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -371,4 +372,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
