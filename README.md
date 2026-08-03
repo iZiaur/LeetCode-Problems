@@ -59,6 +59,7 @@ A collection of LeetCode Problems Solved
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -95,6 +96,7 @@ A collection of LeetCode Problems Solved
 | [0146-lru-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/iZiaur/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0460-lfu-cache) |
@@ -214,6 +216,7 @@ A collection of LeetCode Problems Solved
 | [0295-find-median-from-data-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
@@ -298,6 +302,7 @@ A collection of LeetCode Problems Solved
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
