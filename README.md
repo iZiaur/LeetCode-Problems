@@ -157,6 +157,7 @@ A collection of LeetCode Problems Solved
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/iZiaur/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/iZiaur/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
