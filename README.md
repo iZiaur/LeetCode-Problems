@@ -51,6 +51,7 @@ A collection of LeetCode Problems Solved
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -217,6 +218,7 @@ A collection of LeetCode Problems Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
@@ -243,6 +245,7 @@ A collection of LeetCode Problems Solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0402-remove-k-digits) |
