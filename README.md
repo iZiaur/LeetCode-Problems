@@ -382,6 +382,7 @@ A collection of LeetCode Problems Solved
 | [0584-find-customer-referee](https://github.com/iZiaur/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/iZiaur/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/iZiaur/LeetCode-Problems/tree/master/0619-biggest-single-number) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/iZiaur/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Combinatorics
 |  |
 | ------- |
