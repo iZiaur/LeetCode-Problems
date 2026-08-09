@@ -383,6 +383,7 @@ A collection of LeetCode Problems Solved
 | [0595-big-countries](https://github.com/iZiaur/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/iZiaur/LeetCode-Problems/tree/master/0619-biggest-single-number) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/iZiaur/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
 ## Combinatorics
 |  |
 | ------- |
