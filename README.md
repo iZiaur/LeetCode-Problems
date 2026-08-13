@@ -85,6 +85,7 @@ A collection of LeetCode Problems Solved
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/iZiaur/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
