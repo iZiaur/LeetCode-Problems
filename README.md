@@ -440,6 +440,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0476-number-complement) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iZiaur/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
