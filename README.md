@@ -36,6 +36,7 @@ A collection of LeetCode Problems Solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/iZiaur/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/iZiaur/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
