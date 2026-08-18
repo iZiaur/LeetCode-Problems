@@ -98,6 +98,7 @@ A collection of LeetCode Problems Solved
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iZiaur/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode Problems Solved
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iZiaur/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
