@@ -431,6 +431,7 @@ A collection of LeetCode Problems Solved
 | [1075-project-employees-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/iZiaur/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1683-invalid-tweets](https://github.com/iZiaur/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
 ## Combinatorics
 |  |
