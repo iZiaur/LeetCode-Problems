@@ -6,6 +6,7 @@ A collection of LeetCode Problems Solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/iZiaur/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode Problems Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -469,4 +472,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
