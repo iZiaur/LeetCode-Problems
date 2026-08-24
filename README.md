@@ -17,6 +17,7 @@ A collection of LeetCode Problems Solved
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -27,6 +28,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/iZiaur/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -43,6 +45,7 @@ A collection of LeetCode Problems Solved
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -94,6 +97,7 @@ A collection of LeetCode Problems Solved
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/iZiaur/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iZiaur/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -458,6 +462,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -477,4 +482,12 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
