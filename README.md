@@ -452,6 +452,7 @@ A collection of LeetCode Problems Solved
 | [1327-list-the-products-ordered-in-a-period](https://github.com/iZiaur/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1683-invalid-tweets](https://github.com/iZiaur/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/iZiaur/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
 | ------- |
