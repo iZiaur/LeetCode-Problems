@@ -408,6 +408,7 @@ A collection of LeetCode Problems Solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -425,6 +426,7 @@ A collection of LeetCode Problems Solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -480,6 +482,7 @@ A collection of LeetCode Problems Solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
@@ -488,6 +491,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Game Theory
