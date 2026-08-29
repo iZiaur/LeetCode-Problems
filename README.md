@@ -103,6 +103,7 @@ A collection of LeetCode Problems Solved
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/iZiaur/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2899-last-visited-integers](https://github.com/iZiaur/LeetCode-Problems/tree/master/2899-last-visited-integers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iZiaur/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -384,6 +385,7 @@ A collection of LeetCode Problems Solved
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -542,4 +544,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
