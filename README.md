@@ -473,6 +473,7 @@ A collection of LeetCode Problems Solved
 | [1179-reformat-department-table](https://github.com/iZiaur/LeetCode-Problems/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/iZiaur/LeetCode-Problems/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/iZiaur/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/iZiaur/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/iZiaur/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/iZiaur/LeetCode-Problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
