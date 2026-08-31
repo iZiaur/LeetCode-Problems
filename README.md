@@ -488,6 +488,7 @@ A collection of LeetCode Problems Solved
 | [1693-daily-leads-and-partners](https://github.com/iZiaur/LeetCode-Problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/iZiaur/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/iZiaur/LeetCode-Problems/tree/master/1795-rearrange-products-table) |
 ## Combinatorics
 |  |
 | ------- |
