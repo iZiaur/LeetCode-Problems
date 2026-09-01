@@ -112,6 +112,7 @@ A collection of LeetCode Problems Solved
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iZiaur/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iZiaur/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode Problems Solved
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iZiaur/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -324,6 +326,7 @@ A collection of LeetCode Problems Solved
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Data Stream
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode Problems Solved
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
@@ -530,6 +534,7 @@ A collection of LeetCode Problems Solved
 | [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1386-cinema-seat-allocation](https://github.com/iZiaur/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iZiaur/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
