@@ -376,6 +376,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -434,6 +435,7 @@ A collection of LeetCode Problems Solved
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -462,6 +464,7 @@ A collection of LeetCode Problems Solved
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -561,6 +564,7 @@ A collection of LeetCode Problems Solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/iZiaur/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1386-cinema-seat-allocation](https://github.com/iZiaur/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
