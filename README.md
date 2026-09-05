@@ -517,6 +517,7 @@ A collection of LeetCode Problems Solved
 | [1729-find-followers-count](https://github.com/iZiaur/LeetCode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/iZiaur/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/iZiaur/LeetCode-Problems/tree/master/1795-rearrange-products-table) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/iZiaur/LeetCode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Combinatorics
 |  |
 | ------- |
