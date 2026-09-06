@@ -214,6 +214,7 @@ A collection of LeetCode Problems Solved
 | [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/iZiaur/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/iZiaur/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode Problems Solved
 | [0225-implement-stack-using-queues](https://github.com/iZiaur/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iZiaur/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/iZiaur/LeetCode-Problems/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/iZiaur/LeetCode-Problems/tree/master/0901-online-stock-span) |
@@ -448,6 +450,7 @@ A collection of LeetCode Problems Solved
 | [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -479,6 +482,7 @@ A collection of LeetCode Problems Solved
 | [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -548,6 +552,7 @@ A collection of LeetCode Problems Solved
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -563,6 +568,7 @@ A collection of LeetCode Problems Solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
