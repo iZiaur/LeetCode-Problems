@@ -19,6 +19,7 @@ A collection of LeetCode Problems Solved
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode Problems Solved
 | [0520-detect-capital](https://github.com/iZiaur/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/iZiaur/LeetCode-Problems/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
