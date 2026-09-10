@@ -472,6 +472,7 @@ A collection of LeetCode Problems Solved
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/iZiaur/LeetCode-Problems/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -513,6 +514,7 @@ A collection of LeetCode Problems Solved
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/iZiaur/LeetCode-Problems/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode Problems Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
