@@ -21,6 +21,7 @@ A collection of LeetCode Problems Solved
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -123,6 +124,7 @@ A collection of LeetCode Problems Solved
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -407,6 +409,7 @@ A collection of LeetCode Problems Solved
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode Problems Solved
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Quickselect
