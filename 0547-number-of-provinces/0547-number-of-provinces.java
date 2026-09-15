@@ -1,32 +1,24 @@
 class Solution {
 
-    public void dfs(List<List<Integer>>adj,boolean[] visited,int start){
+    public void dfs(int [][] matrix,boolean[] visited,int start){
         visited[start]=true;
-        List<Integer>temp=adj.get(start);
-        for(int i=0;i<temp.size();i++){
-            if(!visited[temp.get(i)]){
-                dfs(adj,visited,temp.get(i));
+        
+        for(int i=0;i<matrix.length;i++){
+            if(matrix[start][i]==1 && !visited[i]){
+                dfs(matrix,visited,i);
             }
         }
 
     }
     public int findCircleNum(int[][] isConnected) {
-        List<List<Integer>> adj=new ArrayList<>();
-        for(int i=0;i<isConnected.length;i++){
-            adj.add(new ArrayList<>());
-            for(int j=0;j<isConnected.length;j++){
-                if(isConnected[i][j]==1){
-                    adj.get(i).add(j);
-                }
-            }
-        }
+       
 
         boolean visited[]=new boolean[isConnected.length];
         int ans=0;
         for(int i=0;i<visited.length;i++){
             if(!visited[i]){
                 ans++;
-                dfs(adj,visited,i);
+                dfs(isConnected,visited,i);
             }
         }
 
