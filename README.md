@@ -22,6 +22,7 @@ A collection of LeetCode Problems Solved
 | [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode Problems Solved
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode Problems Solved
 | [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode Problems Solved
 | [1382-balance-a-binary-search-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/iZiaur/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
