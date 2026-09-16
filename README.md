@@ -641,6 +641,7 @@ A collection of LeetCode Problems Solved
 | [0572-subtree-of-another-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
@@ -663,6 +664,7 @@ A collection of LeetCode Problems Solved
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -725,6 +727,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## DP on Trees
@@ -740,5 +743,14 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
