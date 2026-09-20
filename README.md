@@ -90,6 +90,7 @@ A collection of LeetCode Problems Solved
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iZiaur/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -384,6 +385,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/iZiaur/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -650,6 +652,7 @@ A collection of LeetCode Problems Solved
 | [0144-binary-tree-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iZiaur/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -684,6 +687,7 @@ A collection of LeetCode Problems Solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/iZiaur/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iZiaur/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -759,6 +763,7 @@ A collection of LeetCode Problems Solved
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
