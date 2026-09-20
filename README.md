@@ -262,6 +262,7 @@ A collection of LeetCode Problems Solved
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iZiaur/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode Problems Solved
 | [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [2899-last-visited-integers](https://github.com/iZiaur/LeetCode-Problems/tree/master/2899-last-visited-integers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/iZiaur/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
