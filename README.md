@@ -15,6 +15,7 @@ A collection of LeetCode Problems Solved
 | [0124-binary-tree-maximum-path-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iZiaur/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -101,6 +102,7 @@ A collection of LeetCode Problems Solved
 | [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -394,6 +396,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/iZiaur/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -703,6 +706,7 @@ A collection of LeetCode Problems Solved
 | [0210-course-schedule-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
