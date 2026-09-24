@@ -123,6 +123,7 @@ A collection of LeetCode Problems Solved
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/iZiaur/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/iZiaur/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -410,6 +411,7 @@ A collection of LeetCode Problems Solved
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/iZiaur/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -731,6 +733,7 @@ A collection of LeetCode Problems Solved
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/iZiaur/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iZiaur/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
