@@ -26,6 +26,7 @@ A collection of LeetCode Problems Solved
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iZiaur/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -836,6 +837,7 @@ A collection of LeetCode Problems Solved
 | [0797-all-paths-from-source-to-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iZiaur/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -850,6 +852,7 @@ A collection of LeetCode Problems Solved
 | [0207-course-schedule](https://github.com/iZiaur/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/iZiaur/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -868,11 +871,13 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iZiaur/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/iZiaur/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
 | ------- |
