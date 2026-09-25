@@ -190,6 +190,7 @@ A collection of LeetCode Problems Solved
 | [0904-fruit-into-baskets](https://github.com/iZiaur/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -274,6 +275,7 @@ A collection of LeetCode Problems Solved
 | [0678-valid-parenthesis-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/iZiaur/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
@@ -325,6 +327,7 @@ A collection of LeetCode Problems Solved
 | [0901-online-stock-span](https://github.com/iZiaur/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -488,6 +491,7 @@ A collection of LeetCode Problems Solved
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/iZiaur/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -742,6 +746,7 @@ A collection of LeetCode Problems Solved
 | [0994-rotting-oranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/iZiaur/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/iZiaur/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iZiaur/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -764,6 +769,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bubble Sort
 |  |
