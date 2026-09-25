@@ -112,6 +112,7 @@ A collection of LeetCode Problems Solved
 | [0646-maximum-length-of-pair-chain](https://github.com/iZiaur/LeetCode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/iZiaur/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/iZiaur/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/iZiaur/LeetCode-Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/iZiaur/LeetCode-Problems/tree/master/0860-lemonade-change) |
@@ -415,6 +416,7 @@ A collection of LeetCode Problems Solved
 | [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/iZiaur/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/iZiaur/LeetCode-Problems/tree/master/0994-rotting-oranges) |
@@ -441,6 +443,7 @@ A collection of LeetCode Problems Solved
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iZiaur/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iZiaur/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/iZiaur/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -470,6 +473,7 @@ A collection of LeetCode Problems Solved
 | [0222-count-complete-tree-nodes](https://github.com/iZiaur/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -703,6 +707,7 @@ A collection of LeetCode Problems Solved
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iZiaur/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -738,6 +743,7 @@ A collection of LeetCode Problems Solved
 | [0662-maximum-width-of-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/iZiaur/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iZiaur/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -784,6 +790,7 @@ A collection of LeetCode Problems Solved
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -812,6 +819,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/iZiaur/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/iZiaur/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/iZiaur/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -879,6 +887,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/iZiaur/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iZiaur/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/iZiaur/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/iZiaur/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
