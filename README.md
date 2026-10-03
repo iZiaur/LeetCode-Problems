@@ -8,6 +8,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -270,6 +271,7 @@ A collection of LeetCode Problems Solved
 | [0005-longest-palindromic-substring](https://github.com/iZiaur/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/iZiaur/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/iZiaur/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0290-word-pattern](https://github.com/iZiaur/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -328,6 +330,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iZiaur/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
@@ -938,6 +941,7 @@ A collection of LeetCode Problems Solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
