@@ -276,6 +276,7 @@ A collection of LeetCode Problems Solved
 | [0127-word-ladder](https://github.com/iZiaur/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0290-word-pattern](https://github.com/iZiaur/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -765,6 +766,7 @@ A collection of LeetCode Problems Solved
 | [0210-course-schedule-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/iZiaur/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iZiaur/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -805,6 +807,7 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
