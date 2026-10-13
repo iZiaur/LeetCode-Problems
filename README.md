@@ -16,6 +16,7 @@ A collection of LeetCode Problems Solved
 | [0115-distinct-subsequences](https://github.com/iZiaur/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iZiaur/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/iZiaur/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/iZiaur/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode Problems Solved
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iZiaur/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iZiaur/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/iZiaur/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/iZiaur/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
