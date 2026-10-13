@@ -25,6 +25,7 @@ A collection of LeetCode Problems Solved
 | [0877-stone-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/iZiaur/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iZiaur/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iZiaur/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode Problems Solved
 | [1021-remove-outermost-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -980,4 +982,8 @@ A collection of LeetCode Problems Solved
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iZiaur/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/iZiaur/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
