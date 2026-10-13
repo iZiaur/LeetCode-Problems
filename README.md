@@ -12,6 +12,7 @@ A collection of LeetCode Problems Solved
 | [0042-trapping-rain-water](https://github.com/iZiaur/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iZiaur/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/iZiaur/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/iZiaur/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/iZiaur/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iZiaur/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode Problems Solved
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iZiaur/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iZiaur/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/0415-add-strings) |
@@ -988,4 +990,8 @@ A collection of LeetCode Problems Solved
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iZiaur/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
