@@ -86,6 +86,7 @@ A collection of LeetCode Problems Solved
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iZiaur/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iZiaur/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/iZiaur/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
@@ -455,6 +456,7 @@ A collection of LeetCode Problems Solved
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iZiaur/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iZiaur/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/iZiaur/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iZiaur/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
