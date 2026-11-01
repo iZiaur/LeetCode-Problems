@@ -67,6 +67,7 @@ A collection of LeetCode Problems Solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/iZiaur/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/iZiaur/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/iZiaur/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/iZiaur/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iZiaur/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/iZiaur/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
@@ -120,6 +121,7 @@ A collection of LeetCode Problems Solved
 | [0347-top-k-frequent-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/iZiaur/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iZiaur/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/iZiaur/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/iZiaur/LeetCode-Problems/tree/master/0621-task-scheduler) |
