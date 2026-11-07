@@ -166,6 +166,7 @@ A collection of LeetCode Problems Solved
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iZiaur/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/iZiaur/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/iZiaur/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -548,6 +549,7 @@ A collection of LeetCode Problems Solved
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iZiaur/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/iZiaur/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/iZiaur/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/iZiaur/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/iZiaur/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/iZiaur/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
