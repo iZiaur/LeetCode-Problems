@@ -190,6 +190,7 @@ A collection of LeetCode Problems Solved
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iZiaur/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/iZiaur/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iZiaur/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/iZiaur/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iZiaur/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iZiaur/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
