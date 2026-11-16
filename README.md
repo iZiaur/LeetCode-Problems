@@ -371,6 +371,7 @@ A collection of LeetCode Problems Solved
 | [1859-sorting-the-sentence](https://github.com/iZiaur/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iZiaur/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/iZiaur/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/iZiaur/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iZiaur/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -491,6 +492,7 @@ A collection of LeetCode Problems Solved
 | [0867-transpose-matrix](https://github.com/iZiaur/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/iZiaur/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/iZiaur/LeetCode-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2899-last-visited-integers](https://github.com/iZiaur/LeetCode-Problems/tree/master/2899-last-visited-integers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iZiaur/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/iZiaur/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
